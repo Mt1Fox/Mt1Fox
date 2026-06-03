@@ -1,7 +1,8 @@
 <div align="center">
+
 <img src="https://i.imgur.com/8INwAlH.png" width="240">
 
-<h1>Hi, I'm Mt1Fox! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRqaXluMWcxbTlpZzdiaG5kMDEzYzBqaGZ0OWttdHFjNmUxeHpkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="40"></h1>
+<img src="./header.svg" alt="Hi, I'm Mt1Fox! — Roblox Full-Stack Scripter & Game Developer" width="100%">
 
 <p>
 <em>Roblox Full-Stack Scripter &amp; Game Developer</em> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Luau_Logo_2025_%28Programming_Lanaguage%29.svg/1280px-Luau_Logo_2025_%28Programming_Lanaguage%29.svg.png" width="24"><br>
@@ -16,18 +17,20 @@ Currently building <b>NEXUS Company</b> &amp; <b>Clock5</b> <img src="https://me
 </p>
 
 <p>
-  <a href="https://x.com/Mt1Fox"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter: Mt1Fox"></a>
+  <a href="https://x.com/Mt1Fox"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X: Mt1Fox"></a>
   <a href="https://www.roblox.com/users/1048000275/profile"><img src="https://img.shields.io/badge/-Roblox-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Roblox: Mt1Fox"></a>
   <a href="https://www.youtube.com/@Mt1Fox"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube: Mt1Fox"></a>
   <a href="https://discord.gg/rk9M9Dwfw2"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: Mt1Fox"></a>
 </p>
+
 </div>
 
 ---
 
 ### <img src="https://i.giphy.com/mGcNjsfWAjY5AEZNw6.webp" width="50"> A little more about me...
 
-```AboutMe.luau
+```lua
+-- AboutMe.luau
 local Mt1Fox = {
 	Roles = {
 		"Full-Stack Scripter",
