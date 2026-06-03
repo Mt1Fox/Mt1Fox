@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:12203a,100:00254d&height=170&section=header&text=Hi,%20I'm%20Mt1Fox!&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Roblox%20Full-Stack%20Scripter%20and%20Game%20Developer&descSize=20&descAlignY=60&fontFamily=Roboto" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:12203a,100:00254d&height=170&section=header&text=Hi,%20I'm%20Mt1Fox!&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Roblox%20Full-Stack%20Scripter%20and%20Game%20Developer&descSize=20&descAlignY=60&fontFamily=Arial" width="100%">
 
  <img src="https://i.imgur.com/8INwAlH.png" width="200">
 
