@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" fill="none" role="img" aria-label="Hi, I'm Mt1Fox - Roblox Full-Stack Scripter & Game Developer">
+  <defs>
+    <!-- Embed Rajdhani from Google Fonts so it renders for everyone -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&amp;display=swap');
+      .title { font-family: 'Rajdhani', sans-serif; font-weight: 700; }
+      .sub   { font-family: 'Rajdhani', sans-serif; font-weight: 600; }
+      .tiny  { font-family: 'Rajdhani', sans-serif; font-weight: 500; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#12203a"/>
+      <stop offset="100%" stop-color="#00254d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#00A2FF"/>
+      <stop offset="100%" stop-color="#7CC4FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="200" rx="18" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="6" fill="url(#accent)"/>
+  <rect x="0" y="194" width="900" height="6" fill="url(#accent)"/>
+
+  <text x="50" y="92" class="title" font-size="58" fill="#ffffff">Hi, I'm Mt1Fox!</text>
+  <text x="52" y="132" class="sub" font-size="26" fill="url(#accent)">Roblox Full-Stack Scripter &amp; Game Developer</text>
+  <text x="52" y="166" class="tiny" font-size="20" fill="#9fc7ff">Founder of Vulpes Studios  •  Building NEXUS Company &amp; Clock5</text>
+</svg>
