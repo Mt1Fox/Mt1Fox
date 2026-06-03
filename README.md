@@ -24,7 +24,7 @@ local Mt1Fox = {
 		"VFX Artist",
 		"Animator",
 	},
-	Code = {"Lua", "Luau"}, --w-- // More in future, I promise!
+	Code = {"Lua", "Luau", "TypeScript"}, --w-- // More in future, I promise!
 	Platform = "Roblox",
 	Studio = "Vulpes Studios", --w-- // The Founder!
 	WorkingOn = {"NEXUS Company", "Clock5"},
