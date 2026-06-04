@@ -30,12 +30,10 @@ Currently building <b>NEXUS Company</b> &amp; <b>Clock5</b> <img src="https://me
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mt1Fox&show_icons=true&hide_border=true&title_color=00A2FF&icon_color=00A2FF&text_color=c9d1d9&bg_color=0b1020" alt="Mt1Fox's GitHub stats">
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=Mt1Fox&hide_border=true&background=0b1020&stroke=00A2FF&ring=00A2FF&fire=7CC4FF&currStreakLabel=00A2FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Mt1Fox's streak">
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mt1Fox&layout=compact&langs_count=8&hide_border=true&title_color=00A2FF&text_color=c9d1d9&bg_color=0b1020" alt="Mt1Fox's top languages">
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mt1Fox&theme=github_dark" />
+<img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mt1Fox&theme=github_dark" />
+<img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mt1Fox&theme=github_dark" />
+</p>
 
 </div>
 
@@ -53,9 +51,9 @@ local Mt1Fox = {
 		"VFX Artist",
 		"Animator",
 	},
-	Code = {"Lua", "Luau", "TypeScript"}, --w-- // More in future, I promise!
+	Code = {"Lua", "Luau", "TypeScript"},
 	Platform = "Roblox",
-	Studio = "Vulpes Studios", --w-- // The Founder!
+	Studio = "Vulpes Studios", --w-- // Cool studio
 	WorkingOn = {"NEXUS Company", "Clock5"},
 	Loves = "Music a lot 🎵",
 };
