@@ -45,18 +45,15 @@ Currently building <b>NEXUS Company</b> &amp; <b>Clock5</b> <img src="https://me
 local Mt1Fox = {
 	Roles = {
 		"Full-Stack Scripter",
-		"Game Developer",
 		"UI Designer",
 		"Game Designer",
 		"VFX Artist",
-		"Animator",
 	},
-	Code = {"Lua", "Luau", "TypeScript"},
+	Code = {"Lua", "Luau"},
 	Platform = "Roblox",
 	Studio = "Vulpes Studios", --w-- // Cool studio
 	WorkingOn = {"NEXUS Company", "Clock5"},
-	Loves = "Music a lot 🎵",
-};
+}
 
-return Mt1Fox;
+return Mt1Fox
 ```
