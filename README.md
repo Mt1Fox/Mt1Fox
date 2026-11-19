@@ -12,7 +12,7 @@ Currently building <b>NEXUS Company</b> &amp; <b>Clock5</b> <img src="https://me
 <p>
   <img src="https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=white" alt="Luau">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+<!--  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"> !-->
 </p>
 
 <p>
